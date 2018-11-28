@@ -1,0 +1,12 @@
+{
+    "name": "hirossyi-test/test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hiroshi Sato",
+            "email": "contact@hirossyi.net"
+        }
+    ],
+    "require": {}
+}
